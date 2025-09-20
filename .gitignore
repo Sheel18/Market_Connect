@@ -1,0 +1,6 @@
+Backend/node_modules
+Backend/.env*
+
+Backend.zip
+Marketplace/
+my-app/
