@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 /node_modules
 .env
+=======
+Backend/node_modules
+Backend/.env*
+
+Backend.zip
+Marketplace/
+my-app/
+>>>>>>> d1a21ff6d36e2ec3a709bb2e837374c7c957450f
